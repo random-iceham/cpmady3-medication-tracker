@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "793060189027",
+    "project_id": "medication-tracker-9bb14",
+    "storage_bucket": "medication-tracker-9bb14.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:793060189027:android:07612baa9fcc08bd36a956",
+        "android_client_info": {
+          "package_name": "com.example.medication_tracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSAiKXTUwk-8dCJRbwUEMMAFViefiyVMs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
