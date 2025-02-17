@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "medication-tracker-9bb14",
+  "private_key_id": "cfcfa8ca0ee98168ecaf0ef0f891abab6f1ab30a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDNiXebZiOc1FRy\nZRhIKY5BJ7b51jpqx/3ndHkMRtgCQkDFx/QC2s1clBygfUKV61qKPgn2idBXP0RG\nGyRiS4XfbyQVFChiaqdqkHanXxH1IgvxBlRgaImEtzPjxqLgkBxKZYXdirzzQEEb\nYxBpn4+BOmsC3rMpWoTUFrGIRlcL44zBy+y9rV/We0a0ALxhjn8pvSNWrhfW7PPZ\n7wvlabhMn1UumuN+p+FyjP1pUtfmhymaxdj9SAQF4URaB7GKmCbrpohfQ6/ckxQF\niotcGjunFPlVSvho5c3wiJ/wyNSIZtrseh3gEiAWLhlCnA0DN7cGTpZlSwdEOon3\n/xwYYNwTAgMBAAECggEAFQpMT6tM3E+SFiR02reXo+IsZXaW2U/VapMDlzb4rYEv\nFJq2RxqIk5W9OSKez9kIFjG+nwRsQETY44erbv0whvcKIwxCtrxt8fHi65mcWCiJ\nlL1N+Dvgo/uFw3yV4itucfaNlb26P6PQERJ633fMNBw7pc9lWMeMOb0u+aEgZQt8\nP37QeqbB2QvSr/YKDYsIYAOauvbbnKzubGsJFmT6DCUlgQGfDKxnktAd8CR+0kHN\n2r9G1Enm0j78/dh7tmfNJBgvdIuD1W0/DAnnilvqlBVdkxUmkiVELyN/NSzAluL9\n5NDH/vFYWyeIGBVB6NmVBoIXI5LfQAzRINeMRq1vDQKBgQD5mE78Q2mmZtLLmKHM\nH27cmgZ5mligub88SNN9d5oLckuEm2DZKGK5xHRsm5dQlD0VDNc3DJQpTcrKD6yf\nAxDmL9JSMM76ZiMTv2pugNwD0JGT12G4mOsYM4L3fwDZPBWG50zyDT+yziojwII6\n9gwUPpuf+pKbVUXGwvDRnYaBTQKBgQDSz7lLatVEkFC+yHzsn6wuyuk9RgHC6jQN\n0UXhZRbrbAj/wJ/W0wTURQm2XGXEtyaOg4xJ2ThF/XlOTmUpwnHbWAM2/9vk+o8L\nTBlf7ENxHtUYLZQeKg177oAnMc9Kqa0TihoN9lJrLR4vAKc/3JAhpDNkgTIG9/cg\nv0J8yjIi3wKBgQDEutBG9buodRNhdoTRJ1Vye9TutEF3LfEVyzEni8XXj9cGRpIn\nmDV4xugdUuYJlU4v8VcRBNEjXTWh3ojpLLl9NeRI9D+wDiFHx3BUeSzxtMuKBBH6\nNk3XXYK1IV3B3CH7mwSDJP44KVf9phb/8j/DFTYE+rPjy2qcJ7s4/TivYQKBgFr/\n9BqMGVepfFF+tf5mxqrESH58s9Hxy1qTlbjALG6fihrsiZLwMEt5KcIgjIWoEeq+\n+lX+gH4l9rFIwf6OwxtOGMUrGT70sb7MsL9pe4tfJdl0A1YqDPwMbiF9LOAr8lxW\n5vxT8iv1o+viOlAk48rB2LVv16qOa40lQowftBi9AoGAXGVBiZAwgV+rfPHJyfKZ\nTipmTSZl2tiIqLOvAgR/ef+9mXEBk1c1930RVaOtV1JbW88+nDtmPdHnAb0Pa698\nSlQahnQmHst0i79Rg08PJ7lW9RPW3ShKNfkX6ybKN2GEy6HnA7MVSv79nmG3nYZn\ndd2FpUj48OQiZn/8kWJZQ/k=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-fbsvc@medication-tracker-9bb14.iam.gserviceaccount.com",
+  "client_id": "115777019380352072948",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-fbsvc%40medication-tracker-9bb14.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
